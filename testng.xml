@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="regression Suite"> 
+
+<test name="TC_02_Verify_Registraction">
+<classes>
+<class name="com.maventest.automation.uiautomation.actions.TC_02_Verify_Registraction">
+ </class>
+
+</classes>
+
+</test>
+
+</suite>

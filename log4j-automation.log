@@ -1,0 +1,291 @@
+2018-04-07 16:50:14,393  INFO [main] Class:29 - ..............Starting Test...............
+ 2018-04-07 16:50:15,223  INFO [main] Class:52 - click on object[[FirefoxDriver: firefox on XP (9f5d170b-b577-4826-8a14-a79931d2c467)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/a]
+ 2018-04-07 16:50:17,483  INFO [main] Class:62 - click on object [[FirefoxDriver: firefox on XP (9f5d170b-b577-4826-8a14-a79931d2c467)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-04-07 16:50:18,691  INFO [main] Class:71 - center emailemailaddress@comobject is[[FirefoxDriver: firefox on XP (9f5d170b-b577-4826-8a14-a79931d2c467)] -> xpath: (//input[@type='email'])[1]]
+ 2018-04-07 16:50:19,329  INFO [main] Class:73 - enter passworduserpass123object isuserpass123
+ 2018-04-07 16:50:19,869  INFO [main] Class:75 - click on object [[FirefoxDriver: firefox on XP (9f5d170b-b577-4826-8a14-a79931d2c467)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-04-07 16:56:13,561  INFO [main] Class:29 - ..............Starting Test...............
+ 2018-04-07 16:56:14,315  INFO [main] Class:52 - click on object[[FirefoxDriver: firefox on XP (7bac28e5-31ca-4cad-ab16-f980324a13bf)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/a]
+ 2018-04-07 16:56:15,832  INFO [main] Class:62 - click on object [[FirefoxDriver: firefox on XP (7bac28e5-31ca-4cad-ab16-f980324a13bf)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-04-07 16:56:17,009  INFO [main] Class:71 - center emailemailaddress@comobject is[[FirefoxDriver: firefox on XP (7bac28e5-31ca-4cad-ab16-f980324a13bf)] -> xpath: (//input[@type='email'])[1]]
+ 2018-04-07 16:56:17,564  INFO [main] Class:73 - enter passworduserpass123object isuserpass123
+ 2018-04-07 16:56:18,028  INFO [main] Class:75 - click on object [[FirefoxDriver: firefox on XP (7bac28e5-31ca-4cad-ab16-f980324a13bf)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-04-07 16:56:19,102  INFO [main] Class:35 - ..............Ending Test...............
+ 2018-04-09 02:27:21,356  INFO [main] Class:29 - ..............Starting Test...............
+ 2018-04-09 02:27:22,338  INFO [main] Class:52 - click on object[[FirefoxDriver: firefox on XP (3324de4f-3c4c-4cdb-a9de-cbe3edc6bcb9)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/a]
+ 2018-04-09 02:27:24,692  INFO [main] Class:62 - click on object [[FirefoxDriver: firefox on XP (3324de4f-3c4c-4cdb-a9de-cbe3edc6bcb9)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-04-09 02:27:25,891  INFO [main] Class:71 - center emailemailaddress@comobject is[[FirefoxDriver: firefox on XP (3324de4f-3c4c-4cdb-a9de-cbe3edc6bcb9)] -> xpath: (//input[@type='email'])[1]]
+ 2018-04-09 02:27:26,375  INFO [main] Class:73 - enter passworduserpass123object isuserpass123
+ 2018-04-09 02:27:26,759  INFO [main] Class:75 - click on object [[FirefoxDriver: firefox on XP (3324de4f-3c4c-4cdb-a9de-cbe3edc6bcb9)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-04-09 02:27:27,829  INFO [main] Class:35 - ..............Ending Test...............
+ 2018-04-11 04:13:05,278  INFO [main] Class:112 - click on object[[FirefoxDriver: firefox on XP (f3aa8607-48c1-4a32-a1af-6e59c35b9ff4)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/a]
+ 2018-04-11 04:13:07,961  INFO [main] Class:115 - click on object[[FirefoxDriver: firefox on XP (f3aa8607-48c1-4a32-a1af-6e59c35b9ff4)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/ul/li[2]/a]
+ 2018-04-11 04:13:08,279  INFO [main] Class:117 - enter namesoban1object is[[FirefoxDriver: firefox on XP (f3aa8607-48c1-4a32-a1af-6e59c35b9ff4)] -> xpath: //*[@id='headersignupform']/div[3]/input]
+ 2018-04-11 04:13:08,971  INFO [main] Class:119 - enter lastnamesyedobject is[[FirefoxDriver: firefox on XP (f3aa8607-48c1-4a32-a1af-6e59c35b9ff4)] -> xpath: //*[@id='headersignupform']/div[4]/input]
+ 2018-04-11 04:13:09,136  INFO [main] Class:121 - enter number7290903438object is[[FirefoxDriver: firefox on XP (f3aa8607-48c1-4a32-a1af-6e59c35b9ff4)] -> xpath: //*[@id='headersignupform']/div[5]/input]
+ 2018-04-11 04:13:09,295  INFO [main] Class:123 - enter email17290903438object is[[FirefoxDriver: firefox on XP (f3aa8607-48c1-4a32-a1af-6e59c35b9ff4)] -> xpath: //*[@id='headersignupform']/div[6]/input]
+ 2018-04-11 04:13:09,401  INFO [main] Class:125 - enter password7290903438object is[[FirefoxDriver: firefox on XP (f3aa8607-48c1-4a32-a1af-6e59c35b9ff4)] -> xpath: //*[@id='headersignupform']/div[7]/input]
+ 2018-04-11 04:13:09,549  INFO [main] Class:127 - enter create confirmpassword[[FirefoxDriver: firefox on XP (f3aa8607-48c1-4a32-a1af-6e59c35b9ff4)] -> xpath: //*[@id='headersignupform']/div[8]/input]object is[[FirefoxDriver: firefox on XP (f3aa8607-48c1-4a32-a1af-6e59c35b9ff4)] -> xpath: //*[@id='headersignupform']/div[8]/input]
+ 2018-04-11 04:32:28,714  INFO [main] Class:112 - click on object[[FirefoxDriver: firefox on XP (2523828c-fd93-4452-bbb6-d43ebab9bc6e)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/a]
+ 2018-04-11 04:32:30,739  INFO [main] Class:115 - click on object[[FirefoxDriver: firefox on XP (2523828c-fd93-4452-bbb6-d43ebab9bc6e)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/ul/li[2]/a]
+ 2018-04-11 04:32:30,795  INFO [main] Class:117 - enter namesoban1object is[[FirefoxDriver: firefox on XP (2523828c-fd93-4452-bbb6-d43ebab9bc6e)] -> xpath: //*[@id='headersignupform']/div[3]/input]
+ 2018-04-11 04:32:30,845  INFO [main] Class:119 - enter lastnamesyedobject is[[FirefoxDriver: firefox on XP (2523828c-fd93-4452-bbb6-d43ebab9bc6e)] -> xpath: //*[@id='headersignupform']/div[4]/input]
+ 2018-04-11 04:32:30,910  INFO [main] Class:121 - enter number7290903438object is[[FirefoxDriver: firefox on XP (2523828c-fd93-4452-bbb6-d43ebab9bc6e)] -> xpath: //*[@id='headersignupform']/div[5]/input]
+ 2018-04-11 04:32:30,983  INFO [main] Class:123 - enter email17290903438object is[[FirefoxDriver: firefox on XP (2523828c-fd93-4452-bbb6-d43ebab9bc6e)] -> xpath: //*[@id='headersignupform']/div[6]/input]
+ 2018-04-11 04:32:31,037  INFO [main] Class:125 - enter password7290903438object is[[FirefoxDriver: firefox on XP (2523828c-fd93-4452-bbb6-d43ebab9bc6e)] -> xpath: //*[@id='headersignupform']/div[7]/input]
+ 2018-04-11 04:32:31,107  INFO [main] Class:127 - enter create confirmpassword[[FirefoxDriver: firefox on XP (2523828c-fd93-4452-bbb6-d43ebab9bc6e)] -> xpath: //*[@id='headersignupform']/div[8]/input]object is[[FirefoxDriver: firefox on XP (2523828c-fd93-4452-bbb6-d43ebab9bc6e)] -> xpath: //*[@id='headersignupform']/div[8]/input]
+ 2018-05-15 17:38:36,429  INFO [main] Class:29 - ..............Starting Test...............
+ 2018-05-15 17:38:36,901  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (177cc0b1-3589-465b-ab05-d378e8c5122b)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/a]
+ 2018-05-15 17:38:38,598  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (177cc0b1-3589-465b-ab05-d378e8c5122b)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-05-15 17:38:39,761  INFO [main] Class:96 - center emailemailaddress@comobject is[[FirefoxDriver: firefox on XP (177cc0b1-3589-465b-ab05-d378e8c5122b)] -> xpath: (//input[@type='email'])[1]]
+ 2018-05-15 17:38:40,348  INFO [main] Class:98 - enter passworduserpass123object isuserpass123
+ 2018-05-15 17:38:40,820  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (177cc0b1-3589-465b-ab05-d378e8c5122b)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-05-15 17:38:41,894  INFO [main] Class:35 - ..............Ending Test...............
+ 2018-05-15 17:40:45,848  INFO [main] Class:112 - click on object[[FirefoxDriver: firefox on XP (7ea32c0e-3bf5-4d7e-8487-380bf7ecbc55)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/a]
+ 2018-05-15 17:40:47,172  INFO [main] Class:115 - click on object[[FirefoxDriver: firefox on XP (7ea32c0e-3bf5-4d7e-8487-380bf7ecbc55)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/ul/li[2]/a]
+ 2018-05-15 17:40:47,247  INFO [main] Class:117 - enter namesoban1object is[[FirefoxDriver: firefox on XP (7ea32c0e-3bf5-4d7e-8487-380bf7ecbc55)] -> xpath: //*[@id='headersignupform']/div[3]/input]
+ 2018-05-15 17:40:47,307  INFO [main] Class:119 - enter lastnamesyedobject is[[FirefoxDriver: firefox on XP (7ea32c0e-3bf5-4d7e-8487-380bf7ecbc55)] -> xpath: //*[@id='headersignupform']/div[4]/input]
+ 2018-05-15 17:40:47,375  INFO [main] Class:121 - enter number7290903438object is[[FirefoxDriver: firefox on XP (7ea32c0e-3bf5-4d7e-8487-380bf7ecbc55)] -> xpath: //*[@id='headersignupform']/div[5]/input]
+ 2018-05-15 17:40:47,447  INFO [main] Class:123 - enter email17290903438object is[[FirefoxDriver: firefox on XP (7ea32c0e-3bf5-4d7e-8487-380bf7ecbc55)] -> xpath: //*[@id='headersignupform']/div[6]/input]
+ 2018-05-15 17:40:47,507  INFO [main] Class:125 - enter password7290903438object is[[FirefoxDriver: firefox on XP (7ea32c0e-3bf5-4d7e-8487-380bf7ecbc55)] -> xpath: //*[@id='headersignupform']/div[7]/input]
+ 2018-05-15 17:40:47,575  INFO [main] Class:127 - enter create confirmpassword[[FirefoxDriver: firefox on XP (7ea32c0e-3bf5-4d7e-8487-380bf7ecbc55)] -> xpath: //*[@id='headersignupform']/div[8]/input]object is[[FirefoxDriver: firefox on XP (7ea32c0e-3bf5-4d7e-8487-380bf7ecbc55)] -> xpath: //*[@id='headersignupform']/div[8]/input]
+ 2018-05-15 17:59:56,663  INFO [main] Class:112 - click on object[[FirefoxDriver: firefox on XP (09f09904-8540-4f7a-9f5b-a6b134b8c997)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/a]
+ 2018-05-15 17:59:57,623  INFO [main] Class:115 - click on object[[FirefoxDriver: firefox on XP (09f09904-8540-4f7a-9f5b-a6b134b8c997)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/ul/li[2]/a]
+ 2018-05-15 17:59:57,729  INFO [main] Class:117 - enter namesoban1object is[[FirefoxDriver: firefox on XP (09f09904-8540-4f7a-9f5b-a6b134b8c997)] -> xpath: //*[@id='headersignupform']/div[3]/input]
+ 2018-05-15 17:59:57,785  INFO [main] Class:119 - enter lastnamesyedobject is[[FirefoxDriver: firefox on XP (09f09904-8540-4f7a-9f5b-a6b134b8c997)] -> xpath: //*[@id='headersignupform']/div[4]/input]
+ 2018-05-15 17:59:57,841  INFO [main] Class:121 - enter number7290903438object is[[FirefoxDriver: firefox on XP (09f09904-8540-4f7a-9f5b-a6b134b8c997)] -> xpath: //*[@id='headersignupform']/div[5]/input]
+ 2018-05-15 17:59:57,897  INFO [main] Class:123 - enter email17290903438object is[[FirefoxDriver: firefox on XP (09f09904-8540-4f7a-9f5b-a6b134b8c997)] -> xpath: //*[@id='headersignupform']/div[6]/input]
+ 2018-05-15 17:59:57,949  INFO [main] Class:125 - enter password7290903438object is[[FirefoxDriver: firefox on XP (09f09904-8540-4f7a-9f5b-a6b134b8c997)] -> xpath: //*[@id='headersignupform']/div[7]/input]
+ 2018-05-15 17:59:58,002  INFO [main] Class:127 - enter create confirmpassword[[FirefoxDriver: firefox on XP (09f09904-8540-4f7a-9f5b-a6b134b8c997)] -> xpath: //*[@id='headersignupform']/div[8]/input]object is[[FirefoxDriver: firefox on XP (09f09904-8540-4f7a-9f5b-a6b134b8c997)] -> xpath: //*[@id='headersignupform']/div[8]/input]
+ 2018-06-01 07:02:27,132  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:02:37,404  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:02:47,517  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:02:57,570  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:03:07,641  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:03:17,695  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:03:27,743  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:03:37,812  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:03:47,862  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:03:57,922  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:04:07,990  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:09:51,953  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:10:02,089  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:10:12,165  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:10:22,207  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:14:28,471  INFO [main] Class:29 - ..............Starting Test...............
+ 2018-06-01 07:29:53,399  INFO [main] Class:29 - ..............Starting Test...............
+ 2018-06-01 07:29:54,561  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (abb5d78b-bcf3-4df5-b2d9-8d70d37f4561)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:29:58,633  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (abb5d78b-bcf3-4df5-b2d9-8d70d37f4561)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:30:00,207  INFO [main] Class:96 - center emailemailaddress@comobject is[[FirefoxDriver: firefox on XP (abb5d78b-bcf3-4df5-b2d9-8d70d37f4561)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:30:00,326  INFO [main] Class:98 - enter passworduserpass123object isuserpass123
+ 2018-06-01 07:30:01,696  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (abb5d78b-bcf3-4df5-b2d9-8d70d37f4561)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:32:50,600  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:32:51,251  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:32:52,804  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:32:53,960  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:32:54,046  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:32:54,421  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:33:05,477  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:33:05,938  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:33:07,429  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:33:08,510  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:33:08,559  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:33:08,883  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:33:19,911  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:33:20,333  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:33:21,948  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:33:22,995  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:33:23,036  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:33:23,350  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:33:34,375  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:33:34,789  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:33:36,253  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:33:37,322  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:33:37,363  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:33:37,665  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:33:48,684  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:33:49,076  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:33:50,697  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:33:51,773  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:33:51,824  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:33:52,169  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:34:03,191  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:34:03,527  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:34:04,943  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:34:06,010  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:34:06,059  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:34:06,384  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:34:17,407  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:34:17,785  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:34:19,282  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:34:20,335  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:34:20,373  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:34:20,675  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:34:31,688  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:34:32,024  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:34:33,514  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:34:34,568  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:34:34,601  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:34:34,909  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:34:45,933  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:34:46,295  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:34:47,731  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:34:48,783  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:34:48,825  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:34:49,133  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:35:00,164  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:35:00,583  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:35:02,068  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:35:03,139  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:35:03,182  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:35:03,497  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:35:14,515  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:35:14,876  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:35:16,305  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:35:17,370  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:35:17,421  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:35:17,771  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (31d639ec-3524-457a-bdb7-b304e65251d7)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:48:42,599  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:48:43,405  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:48:45,521  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:48:46,634  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:48:46,724  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:48:47,104  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:48:58,227  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:48:58,765  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:49:00,608  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:49:01,693  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:49:01,758  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:49:02,134  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:49:13,169  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:49:13,635  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:49:15,453  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:49:16,537  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:49:16,602  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:49:16,961  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:49:28,036  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:49:28,503  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:49:30,476  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:49:31,547  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:49:31,599  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:49:31,922  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:49:42,946  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:49:43,694  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:49:45,537  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:49:46,625  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:49:46,706  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:49:47,123  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (e34626c4-d7e0-4424-a2e9-0e855568189a)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:53:32,971  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:53:33,569  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (dd7ebf5a-bec9-436e-b6c1-1f2e5c2d56e5)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:53:35,088  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (dd7ebf5a-bec9-436e-b6c1-1f2e5c2d56e5)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:53:36,257  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (dd7ebf5a-bec9-436e-b6c1-1f2e5c2d56e5)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:53:36,321  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:53:36,673  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (dd7ebf5a-bec9-436e-b6c1-1f2e5c2d56e5)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 07:53:47,731  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 07:53:48,182  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (dd7ebf5a-bec9-436e-b6c1-1f2e5c2d56e5)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 07:53:49,655  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (dd7ebf5a-bec9-436e-b6c1-1f2e5c2d56e5)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 07:53:50,729  INFO [main] Class:96 - center emailaddobject is[[FirefoxDriver: firefox on XP (dd7ebf5a-bec9-436e-b6c1-1f2e5c2d56e5)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 07:53:50,777  INFO [main] Class:98 - enter passwordpassobject ispass
+ 2018-06-01 07:53:51,132  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (dd7ebf5a-bec9-436e-b6c1-1f2e5c2d56e5)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:06:36,703  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:06:37,189  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:06:38,391  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:06:39,504  INFO [main] Class:96 - center emailsyedmohd@gmail.comobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:06:39,567  INFO [main] Class:98 - enter passwordsoabamsjdklobject issoabamsjdkl
+ 2018-06-01 08:06:39,869  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:06:50,930  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:06:51,268  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:06:52,582  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:06:53,634  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:06:53,673  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:06:53,959  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:06:54,969  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:06:56,030  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:06:56,073  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:06:56,365  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:06:57,519  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:06:58,573  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:06:58,615  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:06:58,933  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:06:59,917  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:07:00,978  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:07:01,021  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:07:01,314  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:07:02,313  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:07:03,357  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:07:03,392  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:07:03,675  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:07:04,704  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:07:05,777  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:07:05,811  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:07:06,101  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:07:07,130  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:07:08,173  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:07:08,210  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:07:08,497  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:07:09,533  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:07:10,573  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:07:10,609  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:07:10,899  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:07:11,915  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:07:12,975  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:07:13,012  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:07:13,294  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:07:14,340  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:07:15,385  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (9d3a3a79-5d0f-4259-bd46-1804af774c73)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:10:45,687  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:10:46,211  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:10:47,351  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:10:48,460  INFO [main] Class:96 - center emailsyedmohd@gmail.comobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:10:48,807  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:10:48,812  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:10:49,155  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:10:50,156  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:10:51,218  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:10:51,556  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:10:51,558  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:10:51,892  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:10:53,062  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:10:54,114  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:10:54,452  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:10:54,454  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:10:54,755  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:10:55,806  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:10:56,866  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:10:57,183  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:10:57,185  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:10:57,481  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:10:58,444  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:10:59,481  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:10:59,784  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:10:59,786  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:11:00,092  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:11:01,176  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:11:02,219  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:11:02,524  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:11:02,527  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:11:02,839  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:11:03,868  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:11:04,922  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:11:05,245  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:11:05,248  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:11:05,550  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:11:06,506  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:11:07,558  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:11:07,872  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:11:07,874  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:11:08,157  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:11:09,158  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:11:10,205  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:11:10,519  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:11:10,521  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:11:10,822  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:11:11,799  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:11:12,882  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:11:13,196  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 2018-06-01 08:11:13,199  INFO [main] Class:42 - ..............Starting Test...............
+ 2018-06-01 08:11:13,500  INFO [main] Class:74 - click on object[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/a]
+ 2018-06-01 08:11:14,514  INFO [main] Class:84 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: /html/body/nav/div/div[2]//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-06-01 08:11:15,568  INFO [main] Class:96 - center emailnullobject is[[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: //*[@id='loginfrm']/div[1]/div[5]/div/div[1]/input]
+ 2018-06-01 08:11:15,861  INFO [main] Class:100 - click on object [[FirefoxDriver: firefox on XP (8276b7d4-0918-4b8b-bcf4-5b4c8e97814d)] -> xpath: (//*[@type='submit'])[1]]
+ 

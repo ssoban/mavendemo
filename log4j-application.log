@@ -1,0 +1,7 @@
+2018-04-07 16:20:21,968  INFO [main] Class:29 - ..............Starting Test...............
+ 2018-04-07 16:20:23,035  INFO [main] Class:52 - click on object[[FirefoxDriver: firefox on XP (c3789519-a7f1-405c-a195-a750793b79be)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/a]
+ 2018-04-07 16:20:25,196  INFO [main] Class:62 - click on object [[FirefoxDriver: firefox on XP (c3789519-a7f1-405c-a195-a750793b79be)] -> xpath: /html/body/div[4]/div/div/div[2]/ul//*[@id='li_myaccount']/ul/li[1]/a]
+ 2018-04-07 16:20:26,513  INFO [main] Class:71 - center emailemailaddress@comobject is[[FirefoxDriver: firefox on XP (c3789519-a7f1-405c-a195-a750793b79be)] -> xpath: (//input[@type='email'])[1]]
+ 2018-04-07 16:20:27,042  INFO [main] Class:73 - enter passworduserpass123object isuserpass123
+ 2018-04-07 16:20:27,466  INFO [main] Class:75 - click on object [[FirefoxDriver: firefox on XP (c3789519-a7f1-405c-a195-a750793b79be)] -> xpath: (//*[@type='submit'])[1]]
+ 

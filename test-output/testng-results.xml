@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48927" started-at="2018-06-01T02:40:28Z" finished-at="2018-06-01T02:41:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48927" started-at="2018-06-01T02:40:28Z" finished-at="2018-06-01T02:41:17Z">
+      <class name="com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials">
+        <test-method status="PASS" signature="open()[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="open" is-config="true" duration-ms="16184" started-at="2018-06-01T08:10:28Z" finished-at="2018-06-01T08:10:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="3129" started-at="2018-06-01T08:10:45Z" data-provider="loginpage" finished-at="2018-06-01T08:10:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[syedmohd@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[soabamsjdkl]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="2745" started-at="2018-06-01T08:10:48Z" data-provider="loginpage" finished-at="2018-06-01T08:10:51Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="2895" started-at="2018-06-01T08:10:51Z" data-provider="loginpage" finished-at="2018-06-01T08:10:54Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="2730" started-at="2018-06-01T08:10:54Z" data-provider="loginpage" finished-at="2018-06-01T08:10:57Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="2600" started-at="2018-06-01T08:10:57Z" data-provider="loginpage" finished-at="2018-06-01T08:10:59Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="2739" started-at="2018-06-01T08:10:59Z" data-provider="loginpage" finished-at="2018-06-01T08:11:02Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="2720" started-at="2018-06-01T08:11:02Z" data-provider="loginpage" finished-at="2018-06-01T08:11:05Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="2625" started-at="2018-06-01T08:11:05Z" data-provider="loginpage" finished-at="2018-06-01T08:11:07Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="2646" started-at="2018-06-01T08:11:07Z" data-provider="loginpage" finished-at="2018-06-01T08:11:10Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="2676" started-at="2018-06-01T08:11:10Z" data-provider="loginpage" finished-at="2018-06-01T08:11:13Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="verifyinvalidlogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="verifyinvalidlogin" duration-ms="2664" started-at="2018-06-01T08:11:13Z" data-provider="loginpage" finished-at="2018-06-01T08:11:15Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidlogin -->
+        <test-method status="PASS" signature="endtest()[pri:0, instance:com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials@17d0008]" name="endtest" is-config="true" duration-ms="1377" started-at="2018-06-01T08:11:15Z" finished-at="2018-06-01T08:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtest -->
+      </class> <!-- com.maventest.automation.uiautomation.loginpage.TC_02_Verify_multiplecredentials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
